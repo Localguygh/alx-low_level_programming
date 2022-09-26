@@ -1,3 +1,6 @@
+#include "main.h"
+#include <stdio.h>
+
 /**
  * print_chessboard - board to print
  * @a: prints things
